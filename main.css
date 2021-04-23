@@ -70,7 +70,7 @@ hr {
 
 /* Установите стиль для кнопки Отправить/зарегистрировать */
 .registerbtn {
-  background-color: #4CAF50;
+  background-color: black;
   color: white;
   padding: 16px 20px;
   margin: 8px 0;

@@ -21,6 +21,11 @@ def news():
 def characters():
     return render_template('Hero.html')
 
+@app.route('/login')
+def Login():
+    return render_template('login.html')
+
+
 @app.route('/news')
 def News():
     return render_template('new.html')
